@@ -1,4 +1,4 @@
-[role="xpack"]
+role="xpack"]
 [[security-api-get-privileges]]
 === Get application privileges API
 ++++
